@@ -3,7 +3,7 @@
 """Task 1: Analyze a string
     (1)Split into lines
     (2)Split into works
-    (3)Using a nested loop
+    (3)Using a nested loop.
 """
 
 import data
