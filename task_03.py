@@ -13,7 +13,7 @@ while not ACCESS:
     print PASSWORD
     if PASSWORD == data.PASSWORD:
         ACCESS = True
-        print "Your Access is granted!" # giving a message for result.
+        print "Your Access is granted!"  # giving a message for result.
     else:
         NUM_GUESS -= 1
         if NUM_GUESS == 0:
