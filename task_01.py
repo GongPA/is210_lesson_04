@@ -13,7 +13,7 @@ MINIMUM_WORDS = 0
 AVERAGE_WORDS = 0
 NUM_CRISPIAN = 0
 TOTAL_WORDS = 0
-LINES = data.SHAKESPEARE.split('\n') 
+LINES = data.SHAKESPEARE.split('\n')
 for LINE in LINES:
     WORDS = LINE.split()
     WORDSIZE = len(WORDS)
